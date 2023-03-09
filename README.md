@@ -35,9 +35,9 @@ Link
 *<dkstjdwns@kookmin.ac.kr>
 
 * Alt text를 이용한 사진 삽입
-![Alt text](https://github.com/anseongjun/anseongjun.github.io/blob/main/images.jpeg)
+![Alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8JlMmjQ9mrqDxZjUQvyuQjWhktEDJGB39CLLVkIUW&s)
 * 사진 크기 조정
-<img width="20%" height="20%" src="https://github.com/anseongjun/anseongjun.github.io/blob/main/images.jpeg">
+<img width="20%" height="20%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8JlMmjQ9mrqDxZjUQvyuQjWhktEDJGB39CLLVkIUW&s">
 
 * 유투브 링크
 [![Video Label](https://img.youtube.com/vi/sAzL4XMke80/0.jpg)](https://www.youtube.com/watch?v=sAzL4XMke80)
