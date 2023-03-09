@@ -21,11 +21,10 @@ List
 + two
 * three
 
-Code
-'''python
-today = '3/9'
-print("Hello, Today is", today)
-'''
+Code   
+```python
+print('hello')
+```
 
 Link
 [Google](https://google.com)
